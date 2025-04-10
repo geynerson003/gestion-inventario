@@ -130,3 +130,20 @@ Este proyecto es una API RESTful desarrollada con **Spring Boot** para gestionar
 
    ```bash
    git clone https://https://github.com/geynerson003/gestion-inventario
+
+2. Ingresa al directorio del proyecto
+   ```bash
+   cd gestion-inventario
+3. Configura tu base de datos en application.properties
+   ```bash
+   spring.datasource.url=jdbc:postgresql://localhost:5432/inventario
+   spring.datasource.username=usuario
+   spring.datasource.password=contraseña
+4. Ejecuta el proyecto con Maven
+   ```bash
+   mvn spring-boot:run
+5 [Accede a la API en ](http://localhost:8080)
+
+## Contribuciones 
+Si deseas contribuir al proyecto, siéntete libre de realizar un **fork**, crear una nueva rama, hacer tus cambios y enviar un **pull request**.
+
