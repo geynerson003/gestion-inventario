@@ -129,4 +129,4 @@ Este proyecto es una API RESTful desarrollada con **Spring Boot** para gestionar
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/gestion-inventario.git
+   git clone https://https://github.com/geynerson003/gestion-inventario
